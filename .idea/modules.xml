@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JKGradleHelloWorldKotlin.iml" filepath="$PROJECT_DIR$/JKGradleHelloWorldKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JKGradleHelloWorldKotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JKGradleHelloWorldKotlin_main.iml" group="JKGradleHelloWorldKotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JKGradleHelloWorldKotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JKGradleHelloWorldKotlin_test.iml" group="JKGradleHelloWorldKotlin" />
+    </modules>
+  </component>
+</project>
